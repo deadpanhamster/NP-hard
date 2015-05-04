@@ -1,0 +1,8 @@
+05.05.2015 at 08:06:47: Game begin message sent.
+05.05.2015 at 08:06:47: Guess prompt sent.
+05.05.2015 at 08:06:53: Failure message sent.
+05.05.2015 at 08:06:53: Guess prompt sent.
+05.05.2015 at 08:06:57: Failure message sent.
+05.05.2015 at 08:06:57: Guess prompt sent.
+05.05.2015 at 08:07:16: Success message sent.
+05.05.2015 at 08:07:16: Guess prompt sent.

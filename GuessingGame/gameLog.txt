@@ -1,0 +1,7 @@
+05.05.2015 at 08:06:37: Server started.
+05.05.2015 at 08:06:47: Client connected. IP: /127.0.0.1 Port: 57067
+05.05.2015 at 08:06:53: client /127.0.0.1:57067 guessed incorrectly.
+05.05.2015 at 08:06:57: client /127.0.0.1:57067 guessed incorrectly.
+05.05.2015 at 08:07:16: client /127.0.0.1:57067 guessed correctly.
+05.05.2015 at 08:07:18: client /127.0.0.1:57067 forced exit.
+05.05.2015 at 08:07:18: Thread end.
